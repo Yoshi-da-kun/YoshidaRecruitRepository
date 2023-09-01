@@ -1,0 +1,10 @@
+PlayerOparation, FieldControl, NextPuyoControl
+が主に力を入れた部分になります。
+時間が足りないようでしたら左から順に時間の許す限りご覧ください
+
+もし作品紹介資料にかいた設計部分を含めて全体を見たい場合は、
+RulesScripts/PuyoPuyoTwoRule, PlayerControlInput, PlayerFlags等
+含めて見るとわかりやすいかと思います。
+
+フォルダ「ScriptableObject」の中のスクリプトについては、
+ほとんどが値をまとめているだけなので見ていただかなくても結構です
